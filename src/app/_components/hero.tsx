@@ -22,7 +22,7 @@ export function Hero() {
 
             <div className='container mx-auto pt-16 pb-16 md:pb-0 overflow-hidden relative'>
                 <article className='grid grid-cols-1 lg:grid-cols-2 gap-8'>
-                    <div className='space-y-6'>
+                    <div className='space-y-6 px-4 '>
                         <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10">
                             Seu pet merece cuidado, carinho e atenção especial.
                         </h1>
